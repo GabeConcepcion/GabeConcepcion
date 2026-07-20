@@ -1,0 +1,43 @@
+# Gabriel Concepcion
+
+### 🎓 Software Engineering Graduate | 🛡️ Aspiring Cybersecurity Professional
+
+I am a **2026 WGU Software Engineering graduate** combining a solid foundation in core IT operations, troubleshooting, and cloud infrastructure with hands-on experience in security analytics. I am actively seeking entry-level opportunities in **IT Support, Help Desk Tier 2, Systems Administration, and Junior SOC Operations** where I can leverage my diverse technical toolkit to support users and protect company assets.
+
+---
+
+## 🚀 Practical Experience: Cloud SOC & SIEM Engineering
+To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber Range** to build, configure, and defend cloud environments against live internet traffic.
+
+*   **System Administration & Networking:** Deployed Azure Virtual Machines, configured Network Security Groups (firewall rules), and managed virtual network routing.
+*   **Log Diagnostics:** Monitored Windows Security Event Logs (Event Viewer) to isolate and diagnose failed authentication patterns.
+*   **SIEM Ingestion:** Forwarded operational and security telemetry into **Microsoft Sentinel** and **Log Analytics Workspaces**.
+*   **Data Analytics:** Wrote custom **Kusto Query Language (KQL)** scripts to parse complex log details and map them to physical geographic origins.
+
+---
+
+## 🎖️ Certifications
+
+*   **CompTIA A+** – Core hardware, software, and operational troubleshooting
+*   **ITIL® Foundation v4** – IT Service Management (ITSM) and help desk best practices
+*   **AWS Certified Cloud Practitioner** – Foundational cloud architecture and security concepts
+*   **CompTIA Project+** – Project lifecycle management and business methodologies
+*   **CompTIA Security+** – *(In Progress / Expected 2026)*
+
+## 🛠️ Technical Skills
+
+| IT Operations & Infrastructure | Cybersecurity & Monitoring |
+| :--- | :--- |
+| **ITSM Frameworks:** ITIL v4, Ticket Lifecycle, SLA Adherence | **SIEM Platform:** Microsoft Sentinel, Log Analytics Workspaces |
+| **Operating Systems:** Windows 10/11, Windows Server, Linux | **Log Analysis:** Kusto Query Language (KQL), Event Viewer, Sysmon |
+| **Cloud Computing:** Microsoft Azure, AWS Eco-system | **Threat Analysis:** IP Geolocation Lookup, Network Security Groups |
+| **Core Networking:** TCP/IP, DNS, DHCP, Subnetting, RDP/SSH | **Scripting & Queries:** Python, PowerShell, SQL |
+
+| Software Engineering |
+| :--- | :--- |
+| **Languages:** Java, Python, JavaScript, SQL |
+| **Frameworks:** Spring Boot, React |
+| **Tools:** Git, Docker, CI/CD Pipelines | **Analytics:** Kusto Query Language (KQL), Log Analytics |
+| **Methodologies:** Agile/Scrum, Object-Oriented Design | **OS & Concepts:** Linux, Windows |
+
+---
