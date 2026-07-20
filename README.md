@@ -1,12 +1,12 @@
 # Gabriel Concepcion
 
-### 🎓 Software Engineering Graduate | 🛡️ Aspiring Cybersecurity Professional
+### Software Engineering Graduate | Aspiring Cybersecurity Professional
 
 I am a **2026 WGU Software Engineering graduate** combining a solid foundation in core IT operations, troubleshooting, and cloud infrastructure with hands-on experience in security analytics. I am actively seeking entry-level opportunities in **IT Support, Help Desk Tier 2, Systems Administration, and Junior SOC Operations** where I can leverage my diverse technical toolkit to support users and protect company assets.
 
 ---
 
-## 🚀 Practical Experience: Cloud SOC & SIEM Engineering
+## Practical Experience: Cloud SOC & SIEM Engineering
 To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber Range** to build, configure, and defend cloud environments against live internet traffic.
 
 *   **System Administration & Networking:** Deployed Azure Virtual Machines, configured Network Security Groups (firewall rules), and managed virtual network routing.
@@ -16,7 +16,7 @@ To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber R
 
 ---
 
-## 🎖️ Certifications
+## Certifications
 
 *   **CompTIA A+** – Core hardware, software, and operational troubleshooting
 *   **ITIL® Foundation v4** – IT Service Management (ITSM) and help desk best practices
@@ -24,7 +24,7 @@ To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber R
 *   **CompTIA Project+** – Project lifecycle management and business methodologies
 *   **CompTIA Security+** – *(In Progress / Expected 2026)*
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 | 🌐 IT Operations & Infrastructure | 🛡️ Cybersecurity & Monitoring |
 | :--- | :--- |
