@@ -14,6 +14,8 @@ To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber R
 *   **SIEM Ingestion:** Forwarded operational and security telemetry into **Microsoft Sentinel** and **Log Analytics Workspaces**.
 *   **Data Analytics:** Wrote custom **Kusto Query Language (KQL)** scripts to parse complex log details and map them to physical geographic origins.
 
+- **[🛡️ Threat Hunt Report: Dissecting RDP Compromise](https://github.com/GabeConcepcion/Threat-Hunting-Reports/blob/main/Just%20Another%20Day%3A%20Dissecting%20RDP%20Compromise.md#-stage-03-operational-boundary-violations)**  
+  A proactive compromise assessment analyzing an identity-hijacking intrusion via RDP. Features automated log filtering, native Windows utility profiling (LotL tradecraft tracking), and custom KQL detection engineering blueprints.
 ---
 
 ## Certifications
