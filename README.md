@@ -24,20 +24,26 @@ To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber R
 *   **CompTIA Project+** – Project lifecycle management and business methodologies
 *   **CompTIA Security+** – *(In Progress / Expected 2026)*
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skillset
 
-| IT Operations & Infrastructure | Cybersecurity & Monitoring |
+| 🌐 IT Operations & Infrastructure | 🛡️ Cybersecurity & Monitoring |
 | :--- | :--- |
 | **ITSM Frameworks:** ITIL v4, Ticket Lifecycle, SLA Adherence | **SIEM Platform:** Microsoft Sentinel, Log Analytics Workspaces |
 | **Operating Systems:** Windows 10/11, Windows Server, Linux | **Log Analysis:** Kusto Query Language (KQL), Event Viewer, Sysmon |
 | **Cloud Computing:** Microsoft Azure, AWS Eco-system | **Threat Analysis:** IP Geolocation Lookup, Network Security Groups |
 | **Core Networking:** TCP/IP, DNS, DHCP, Subnetting, RDP/SSH | **Scripting & Queries:** Python, PowerShell, SQL |
 
-| Software Engineering |
-| :--- | :--- |
-| **Languages:** Java, Python, JavaScript, SQL |
-| **Frameworks:** Spring Boot, React |
-| **Tools:** Git, Docker, CI/CD Pipelines | **Analytics:** Kusto Query Language (KQL), Log Analytics |
-| **Methodologies:** Agile/Scrum, Object-Oriented Design | **OS & Concepts:** Linux, Windows |
+<br>
 
+<details>
+<summary>💡 <b>View Software Engineering & Development Toolkit (Click to expand)</b></summary>
+<br>
+
+| Software Engineering | Systems & Analytics |
+| :--- | :--- |
+| **Languages:** Java, Python, JavaScript, SQL | **Analytics:** Kusto Query Language (KQL), Log Analytics |
+| **Frameworks:** Spring Boot, React | **OS & Concepts:** Linux, Windows, Object-Oriented Design |
+| **Tools:** Git, Docker, CI/CD Pipelines | **Methodologies:** Agile/Scrum |
+
+</details>
 ---
