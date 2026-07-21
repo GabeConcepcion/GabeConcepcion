@@ -16,6 +16,8 @@ To complement my IT infrastructure knowledge, I utilize **Josh Madakor's Cyber R
 
 - **[🛡️ Threat Hunt Report: Dissecting RDP Compromise](https://github.com/GabeConcepcion/Threat-Hunting-Reports/blob/main/Just%20Another%20Day%3A%20Dissecting%20RDP%20Compromise.md#-stage-03-operational-boundary-violations)**  
   A proactive compromise assessment analyzing an identity-hijacking intrusion via RDP. Features automated log filtering, native Windows utility profiling (LotL tradecraft tracking), and custom KQL detection engineering blueprints.
+- **[💼 Threat Hunt Report: Finance User Breach](https://github.com/GabeConcepcion/Threat-Hunting-Reports/blob/main/Finance-User-Breach.md)**  
+  A DFIR investigation of a multi-stage identity breach, mapping external credential abuse, host persistence mechanisms, and lateral movement across enterprise server infrastructure.
 ---
 
 ## Certifications
