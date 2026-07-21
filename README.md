@@ -2,7 +2,7 @@
 
 ### Software Engineering Graduate | Aspiring Cybersecurity Professional
 
-I am a **2026 WGU Software Engineering graduate** combining a solid foundation in core IT operations, troubleshooting, and cloud infrastructure with hands-on experience in security analytics. I am actively seeking entry-level opportunities in **IT Support, Help Desk Tier 2, Systems Administration, and Junior SOC Operations** where I can leverage my diverse technical toolkit to support users and protect company assets.
+I am a **2026 WGU Software Engineering graduate** combining a solid foundation in core IT operations, troubleshooting, and cloud infrastructure with hands-on experience in security analytics. I am actively seeking opportunities in **IT Support, Systems Administration, and SOC Operations** where I can leverage my diverse technical toolkit to support users and protect company assets.
 
 ---
 
